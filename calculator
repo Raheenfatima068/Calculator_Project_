@@ -1,2 +1,6 @@
 Console.WriteLine("Raheen Fatima");
 Console.WriteLine("24-ST-068");
+int a = 5;
+int b = 6;
+int multi = a * b;
+Console.WriteLine("The multiplication of two numbers is: multiplication");
