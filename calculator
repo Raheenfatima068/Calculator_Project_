@@ -20,6 +20,9 @@ int a = 5;
 int b = 6;
 int multi = a * b;
 Console.WriteLine("The multiplication of two numbers is: multiplication");
+ Conflict_Branch2
+Hello how are you;
 hey its me;
+ main
 
 
