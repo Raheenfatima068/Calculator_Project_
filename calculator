@@ -1,5 +1,10 @@
 Console.WriteLine("Raheen Fatima");
 Console.WriteLine("24-ST-068");
+ Addition
+int a = 4;
+int b = 6;
+int sum = a + b;
+Console.WriteLine("The sum of two numbers is: Sum");
  Subtraction
 int a = 10;
 int b = 8;
@@ -15,5 +20,6 @@ int a = 5;
 int b = 6;
 int multi = a * b;
 Console.WriteLine("The multiplication of two numbers is: multiplication");
+
 
 
