@@ -1,5 +1,10 @@
 Console.WriteLine("Raheen Fatima");
 Console.WriteLine("24-ST-068");
+ Subtraction
+int a = 10;
+int b = 8;
+int subtract = a - b;
+Console.WriteLine("The Substraction of two numbers is: Subtract");
  Division
 int a = 20;
 int b = 10;
@@ -10,4 +15,5 @@ int a = 5;
 int b = 6;
 int multi = a * b;
 Console.WriteLine("The multiplication of two numbers is: multiplication");
+
 
