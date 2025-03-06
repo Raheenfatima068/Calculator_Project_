@@ -1,6 +1,13 @@
 Console.WriteLine("Raheen Fatima");
 Console.WriteLine("24-ST-068");
+ Division
+int a = 20;
+int b = 10;
+int div = a/b;
+Console.WriteLine("The Division of two numbers is: Division");
+multiplication
 int a = 5;
 int b = 6;
 int multi = a * b;
 Console.WriteLine("The multiplication of two numbers is: multiplication");
+
